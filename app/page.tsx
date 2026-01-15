@@ -13,7 +13,7 @@ const events = [
 ]
 
 export default function Page() {
-  console.log("hi i am server side code");
+
   return (
    <section>
     <h1 className="text-center">The Hub for Every Dev <br /> Event You Can't Miss</h1>
